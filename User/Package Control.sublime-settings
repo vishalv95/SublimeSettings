@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"42 Headers",
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"ERB Autocomplete",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Java Velocity",
+		"LaTeXTools",
+		"LiveReload",
+		"Markdown Preview",
+		"MarkdownLight",
+		"Numix Theme",
+		"Package Control",
+		"Predawn",
+		"Prolog",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pyflakes",
+		"SublimeREPL",
+		"SummitLinter",
+		"Terminal",
+		"Theme - Brogrammer",
+		"View In Browser"
+	]
+}

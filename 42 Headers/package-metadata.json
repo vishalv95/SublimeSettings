@@ -1,0 +1,1 @@
+{"dependencies": [], "description": "A sublime text plug-in for the students of 42", "version": "1.0.18", "url": "https://github.com/Globidev/Sublime-Text-42-Headers", "platforms": ["*"], "sublime_text": ">=3000"}
